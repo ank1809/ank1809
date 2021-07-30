@@ -1,4 +1,4 @@
-### I am a fresher engineering graduate and looking to start my career in software industry .I am a quick learner, I have good command in Html ,CSS ,Bootstrap and JavaScript
+### I am a fresher engineering graduate and looking to start my career in software industry .I am a quick learner, I have good command in Html ,CSS ,Bootstrap and JavaScript OOP and core java
 Currently I am pursuing a Web Development course through Udemy Where I have completed projects using Html, CSS .bootstrap and Java Script Now heading to learn (jQuery, Nodejs, Reset API and Ajax ,The command line, MongoDB .
 I am open to:
 Any collaboration work,
