@@ -1,9 +1,9 @@
-### I am a fresher engineering graduate and looking to start my career in software industry .I am a quick learner, I have good command in Html ,CSS ,Bootstrap and JavaScript, DBMS,SQL, OOP and core java
-Currently I am pursuing a Web Development course through Udemy Where I have completed projects using Html, CSS .bootstrap and Java Script Now heading to learn (jQuery, Nodejs, Reset API and Ajax ,The command line, MongoDB .
+### I am a fresher graduated from University of Pune. Currently, I am looking to start my career in Software Industry. I am a quick learner. I have good command in HTML5, CSS3, Bootstrap, JavaScript, DBMS, SQL, OOPS and Core Java
+I am pursuing a Web Development bootcamps from Udemy where I have completed projects using HTML5, CSS3, Bootstrap and Java Script. I am also learning jQuery, Nodejs, Rest API, Ajax, GIT, MongoDB and RDBMS.
 I am open to:
 Any collaboration work,
 Web Development Projects
-Software development trainee
+Software Development Trainee
 Available to become reviewer or PC member for Web Development or any other software development projects.
 Contact Details:
 Mob no.9970466388
